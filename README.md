@@ -18,8 +18,13 @@
 - **Authentication:** JWT
 
 ## 📸 Screenshots
+
+## Submit Your Complaint
 ![Image](https://github.com/user-attachments/assets/fbe041ce-f550-44d8-aef0-f63888b5f281)
+
 ![Image](https://github.com/user-attachments/assets/9e0f879b-67b6-47a5-92bd-e3674cd11342)
+
+## Admin Dashboard
 ![Image](https://github.com/user-attachments/assets/58ff6574-d6dd-4f89-8329-761cc7866752)
 
 ## 🎯 Installation & Setup
