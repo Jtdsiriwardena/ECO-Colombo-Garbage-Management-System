@@ -1,6 +1,6 @@
 # 🌍 ECO Colombo - Garbage Management System
 
-![ECO Colombo](https://via.placeholder.com/800x400)  
+![Image](https://github.com/user-attachments/assets/35dd1ccb-b909-43d7-bd2c-3f0876560de3)  
 *A MERN stack-based waste management system designed to streamline garbage reporting and cleanup operations efficiently.*
 
 ## 🚀 Features
@@ -18,8 +18,9 @@
 - **Authentication:** JWT
 
 ## 📸 Screenshots
-![Dashboard Screenshot](https://via.placeholder.com/800x400)
-![Complaint Submission](https://via.placeholder.com/800x400)
+![Image](https://github.com/user-attachments/assets/fbe041ce-f550-44d8-aef0-f63888b5f281)
+![Image](https://github.com/user-attachments/assets/9e0f879b-67b6-47a5-92bd-e3674cd11342)
+![Image](https://github.com/user-attachments/assets/58ff6574-d6dd-4f89-8329-761cc7866752)
 
 ## 🎯 Installation & Setup
 1. **Clone the repository**
